@@ -12,7 +12,7 @@ Este projeto foi criado para aprender o fluxo de contribuição com Git e GitHub
 2. Explore os arquivos
 3. Contribua com melhorias
 
-## Technologias
+## Tecnologias
 
 - Markdown
 - Git
